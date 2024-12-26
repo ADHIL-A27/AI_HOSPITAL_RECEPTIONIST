@@ -1,0 +1,33 @@
+Here are some sample questions in Malayalam based on the provided hospital context:
+
+1. **എമർജൻസി വിഭാഗം എവിടെയുണ്ട്?**  
+   (Where is the emergency department located?)
+
+2. **ഡോക്ടർ രാജീവ് കുമാർ ഇന്ന് ഏതു സമയത്ത് ലഭ്യനാണ്?**  
+   (What time is Dr. Rajeev Kumar available today?)
+
+3. **മറ്റുമുറികളിൽ സന്ദർശകർക്ക് കയറ്റം ലഭിക്കുന്ന സമയം ഏതു?**  
+   (What are the visiting hours for the inpatient wards?)
+
+4. **ഫാർമസി ഏതൊക്കെ സമയത്ത് തുറക്കുന്നു?**  
+   (What are the opening hours of the pharmacy?)
+
+5. **ആർത്ത്‌പെഡിക് ഡോക്ടർ എവിടെയാണ് ലഭ്യമായത്?**  
+   (Where is the orthopedic doctor available?)
+
+6. **എക്സ്-റേ, MRI സേവനങ്ങൾ എവിടെ ലഭ്യമാണ്?**  
+   (Where can I get X-ray and MRI services?)
+
+7. **ജനറൽ വാർഡിൽ ഉള്ള സൗകര്യങ്ങൾ എന്തൊക്കെ?**  
+   (What are the facilities available in the general ward?)
+
+8. **ആശുപത്രിയുടെ കാൻറീൻ എവിടെ സ്ഥിതിചെയ്യുന്നു?**  
+   (Where is the hospital's canteen located?)
+
+9. **ഇൻ്റെൻസീവ് കെയർ യൂണിറ്റിലേക്ക് സന്ദർശിക്കാൻ കഴിയുന്ന സമയമെന്നാണ്?**  
+   (What are the visiting hours for the Intensive Care Unit (ICU)?)
+
+10. **നിറവ് പരിശോധനകൾക്ക് ലബോറട്ടറി സേവനങ്ങൾ എവിടെയുണ്ട്?**  
+    (Where are the diagnostic laboratory services located for blood tests?)
+
+These questions should help patients ask common queries when they interact with a hospital receptionist.

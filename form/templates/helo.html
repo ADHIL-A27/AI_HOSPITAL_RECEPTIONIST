@@ -1,0 +1,41 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Interface with Voice and File</title>
+    <link rel="stylesheet" href="{% static '\css\style.css' %}">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Malayalam&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <div class="chat-container">
+        <!-- Header -->
+        <div class="chat-header">
+            <img src="{% static 'image\avatar.jpg' %}" alt="User Avatar" class="avatar">
+            <div class="user-info">
+                <h2>Receptionist</h2>
+                <p>Online</p>
+            </div>
+        </div>
+
+        <!-- Chat Area -->
+        <div class="chat-area" id="chatArea">
+            <!-- Messages will be appended here dynamically -->
+        </div>
+
+        <!-- Message Input Section -->
+        <div class="chat-input">
+            <input type="file" id="fileInput" style="display:none;" />
+            <button id="attachBtn" class="attachment-btn" hidden>📎</button>
+           
+            <input type="text" id="messageInput" placeholder="Type a message...">
+            <button id="recordBtn" class="record-btn">🎤</button>
+            <button id="sendBtn">Send</button>
+        </div>
+    </div>
+
+    <script src="{% static '\js\scripts.js' %}"></script>
+</body>
+</html>
